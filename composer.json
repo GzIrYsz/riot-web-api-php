@@ -1,0 +1,20 @@
+{
+  "name": "gzirysz/riot-web-api-php",
+  "description": "A PHP wrapper for Riot's Web API.",
+  "version": "0.0.0",
+  "minimum-stability": "stable",
+  "keywords": ["riot", "league of legends", "teamfight tactics", "legends of runeterra", "valorant", "api", "wrapper"],
+  "type": "library",
+  "homepage": "https://github.com/GzIrYsz/riot-web-api-php",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Thomas REMY",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "ext-json": "*",
+    "ext-curl": "*"
+  }
+}
